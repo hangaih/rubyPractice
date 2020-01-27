@@ -36,8 +36,6 @@ end
 
 puts '------------'
 
-
-
 i = 0
 while i < 5 do
   s =''
@@ -55,3 +53,5 @@ while i < 5 do
   i += 1
   puts s
 end
+
+ #slackに通知が飛ぶかどうかのテスト
